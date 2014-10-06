@@ -79,7 +79,7 @@ No promises
 
     python makePlan.py [-b] -n agent_count input_file [output_directory] [output_file]
 
-    -b:          Include this option if you like your maps blue instead of green for any reason
+    -b: Include this option if you like your maps blue instead of green for any reason
 
     -n agent_count: Number of agents for which to make a plan
 
